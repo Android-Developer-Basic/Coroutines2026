@@ -26,3 +26,4 @@ plugins {
 }
 
 include(":coroutines")
+include(":coroutines:experiments")
