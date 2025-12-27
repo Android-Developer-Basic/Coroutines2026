@@ -1,5 +1,6 @@
 # Gradle files
 .gradle/
+.kotlin/
 build/
 
 # Local configuration file (sdk path, etc)
@@ -14,6 +15,8 @@ captures/
 .cxx/
 *.apk
 output.json
+/cookbook/server/docs
+/network/server/docs
 
 # IntelliJ
 *.iml
